@@ -1,0 +1,1 @@
+Repositório para o UML do projecto de LI4.
